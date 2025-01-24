@@ -4,5 +4,5 @@ th,td{
 	border: 1px solid black;
 }
 table{
-	border-line: collapse;
+	border-collapse: collapse;
 }
